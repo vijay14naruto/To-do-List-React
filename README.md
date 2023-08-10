@@ -16,29 +16,6 @@ This is a simple Todo List application built using React. It allows users to add
 - Filter tasks: Users can use the dropdown menu to filter tasks based on their completion status.
 - Task count: The total number of tasks and the number of completed tasks are displayed.
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd todo-list
-   ```
-
-3. Install the dependencies:
-   ```
-   npm install
-   ```
-
-4. Start the application:
-   ```
-   npm start
-   ```
-
-5. Open your web browser and visit http://localhost:3000 to see the Todo List application.
 
 ## Dependencies
 
@@ -55,15 +32,6 @@ You can find the complete list of dependencies with their versions in the `packa
 The application uses the JSONPlaceholder API to fetch and update tasks. The API endpoint used is: https://jsonplaceholder.typicode.com/todos
 
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
 
 
 ## Acknowledgements

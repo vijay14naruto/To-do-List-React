@@ -72,4 +72,4 @@ If you'd like to contribute to this project, please follow these steps:
 - [React](https://reactjs.org/) - The JavaScript library used for building the user interface.
 - [React Toastify](https://fkhadra.github.io/react-toastify/) - A library for displaying toast notifications in React applications.
   ## Owner
-  Vivek Kumar
+ Vijay Jha
